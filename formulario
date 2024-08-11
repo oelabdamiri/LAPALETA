@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculadora de Reforma</title>
+</head>
+<body>
+    <form method="POST">
+        <label for="metros">Metros cuadrados:</label>
+        <input type="number" id="metros" name="metros"><br>
+        <input type="submit" value="Calcular">
+    </form>
+</body>
+</html>

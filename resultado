@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resultados</title>
+</head>
+<body>
+    <p>Racholas necesarias: {{ resultado }}</p>
+    </body>
+</html>
